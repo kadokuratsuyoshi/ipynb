@@ -1,2 +1,2 @@
 # Euler-Lagrange equation
-- [Click the cell](Euler-Lagrange_equation.ipynb)
+- [EUler-Lagrange_equation.ipynb](Euler-Lagrange_equation.ipynb)
