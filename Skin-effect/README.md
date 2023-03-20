@@ -1,2 +1,2 @@
 # Skin-effect
-- [Skin-effect.ipynb](skin_effect.ipynb)
+- [skin-effect.ipynb](skin_effect.ipynb)
