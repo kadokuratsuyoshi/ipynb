@@ -1,2 +1,2 @@
-# Test Scratches of the the Wolfram Language
-Hydrogen atom wave_functions
+# Test the Wolfram Language scratch
+- [Click to launch](hydrogen_atom_wave_functions.ipynb)
