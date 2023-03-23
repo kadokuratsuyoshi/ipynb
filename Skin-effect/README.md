@@ -1,2 +1,2 @@
 # Skin-effect
-- [skin-effect.ipynb](skin_effect.ipynb)
+- [Click to launch](skin_effect.ipynb)
