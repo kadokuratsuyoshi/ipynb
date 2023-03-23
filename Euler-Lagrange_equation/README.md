@@ -1,2 +1,2 @@
 # Euler-Lagrange equation
-- [Euler-Lagrange_Equation.ipynb](Euler-Lagrange_Equation.ipynb)
+- [Click to launch](Euler-Lagrange_Equation.ipynb)
